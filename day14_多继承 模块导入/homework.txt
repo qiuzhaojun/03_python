@@ -1,0 +1,14 @@
+作业
+1. 三合一
+2. 当天练习独立完成
+3. 员工管理系统
+    需求：对员工信息进行(增查删改)
+    class Employee:
+        def __init__(self, eid, did, name, money):
+            self.eid = eid # 员工编号
+            self.did = did # 部门编号
+            self.name = name # 姓名
+            self.money = money # 工资
+4. 准备答辩
+
+

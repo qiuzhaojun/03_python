@@ -1,0 +1,36 @@
+房源信息管理系统
+一、正确导入相关文件
+    将文件夹house_information_manager_system拷贝到Pycharm工程中
+    标记项目根目录
+    运行dal.py，可以看到数据.
+
+二、搭建MVC架构
+三、按1键显示所有房源信息
+四、按2键显示总价最高的房源信息
+五、按3键显示面积最小的房源信息
+六、按4键根据总价升序显示房源信息
+七、按5键根据面积降序显示房源信息
+
+八、按6键查看所有"2室1厅"
+九、按7键查看所有大于6层的房源
+    content = "abcde"
+    begin_index = content.index("a")
+    end_index = content.index("d")
+    print(content[begin_index + 1:end_index])
+九、按8键查看房源类型信息
+    1室1厅   15
+    2室1厅   25
+    3室1厅   30
+十、按9键根据编号删除多个信息
+    用空格或者逗号隔开多个编号
+
+
+
+
+
+
+
+
+
+
+
