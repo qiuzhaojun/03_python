@@ -18,4 +18,3 @@ list_name.append("不凡")
 # 语法2：插入   列表名.insert(索引,数据)
 list_name.insert(0,"吴晔")
 list_name.insert(2,"吴宗净")
-

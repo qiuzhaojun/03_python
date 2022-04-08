@@ -27,7 +27,7 @@ for i in range(len(tuple_name) - 1, -1, -1):
     print(tuple_name[i])
 
 # 注意1：如果元组中只有一个元素,必须加上逗号
-tuple01 = ("数据",)
+    tuple01 = ("数据",)
 print(type(tuple01))
 
 # 注意2：构建元组的括号可以省略
