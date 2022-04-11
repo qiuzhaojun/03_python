@@ -14,11 +14,11 @@ list_datas = [
 ]
 # 两个列表全排列需要两层循环嵌套
 # n              n
-list_result = []
-for r in list_datas[0]:
-    for c in list_datas[1]:
-        list_result.append((r, c))
-print(list_result)
+# list_result = []
+# for r in list_datas[0]:
+#     for c in list_datas[1]:
+#         list_result.append((r, c))
+# print(list_result)
 
 list_result = list(itertools.product(*list_datas))
 print(list_result)
